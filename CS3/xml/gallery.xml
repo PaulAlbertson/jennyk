@@ -1,0 +1,20 @@
+<?xml varion="1.0" encoding="utf-8"?>
+<gallery>
+<?processing instructions?>
+	<image file="pic1.jpg">
+		<title>A picture of some stuff</title>
+		<description><![CDATA[Jivaka is a developer of green, modern, luxury homes that focuses not only onprotecting natural resources, but also on the individuals living in the homes by using buildingmaterials that are protective of their health. The logo was designed to convey a feeling of serenity and fluidity, with an eye towards the green and humanistic aspects of the living spaces. &#13;&#13; Shown here is the business card and signage used at site properties, followed by the website landing page.]]></description>
+		<photographer id="001">
+			<name>John Photographer</name>
+			<location>Ventura, CA</location>
+		</photographer>		
+	</image>
+	<image file="pic2.jpg">
+		<title>A picture of some different stuff</title>
+		<description><![CDATA[Here's more stuff.]]></description>
+		<photographer id="002">
+			<name>Jim Photographer</name>
+			<location>Seattle, WA</location>
+		</photographer>
+	</image>
+</gallery>
